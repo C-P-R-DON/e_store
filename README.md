@@ -9,3 +9,6 @@
   - contains functions for accessing and updating the store database 
 - bankoperation.php
   - executes transactions following customer purchases
+- createTable.sql
+- insertdata.sql
+- createPSM.sql  

@@ -8,7 +8,10 @@
 - store_db.php
   - contains functions for accessing and updating the store database 
 - bankoperation.php
-  - executes transactions following customer purchases
+  - executes bank transactions following customer purchases
 - createTable.sql
+  - creates tables for store database
 - insertdata.sql
-- createPSM.sql  
+  - inserts example data into store database
+- createPSM.sql
+  - creates SQL procedures used by store web interface 

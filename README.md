@@ -1,0 +1,11 @@
+## E-Commerce Store Website Project for CS3425 -- Introduction to Database Systems
+- store_login.php
+  - store login page for customers and employees, enabling user registration and sign in
+- customer_main.php
+  - main display page for customers, allowing them to view product, add items to their shopping cart, edit their cart, place orders, and view order history 
+- employee_main.php
+  - main display page for employees, allowing editing and viewing of product stock and price
+- store_db.php
+  - contains functions for accessing and updating the store database 
+- bankoperation.php
+  - executes transactions following customer purchases
